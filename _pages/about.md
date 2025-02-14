@@ -14,10 +14,14 @@ redirect_from:
 Dr. Debashisha Mishra is currently a Senior Researcher at Autonomous Robotics Research Center, at the Technology Innovation Institute (TII), a cutting-edge UAE-based scientific research center. He obtained his master’s degree M.Tech. from Indian Institute of Technology (IIT) Hyderabad and his Ph.D. in Computer Science at the Université de Lorraine (France) in 2018 and 2023 respectively. From 2021-2023, he was an associate researcher at the Technology Innovation Institute. His research interests include Networked Robotics, Advanced Air Mobility, and 5G and beyond cellular network.
 
 <b>Research Highlights:</b>
-* Networked Robotics, Autonomous Systems, Unmanned Aerial Vehicles (UAVs)
-* Advanced Air Mobility
+* Advanced Air Mobility (flying taxi) corridor design and separation definition
+* Rapid aerial disaster management using UAV access infrastructure and relays
+* Platform prototyping and autonomous positioning of UAV-assisted 4G/5G base station
+* Cloud radio access networks 
+<!-- *Networked Robotics, Autonomous Systems, Unmanned Aerial Vehicles (UAVs)
+ Advanced Air Mobility
 * Wired and Wireless Computer Networks (4G, 5G and beyond)
-* Cloud and Edge Computing
+* Cloud and Edge Computing -->
 
 ## Recent works
 Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah, LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms, IEEE International Conference on Communications (ICC), Canada, 2025
