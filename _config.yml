@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Debashisha's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Debashisha Mishra"
 description              : &description "personal description"
@@ -25,11 +25,11 @@ author:
   avatar           : "ProfilePic.jpg"
   name             : "Debashisha Mishra"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Researcher, ARRC, TII, UAE"
-  location         : "Earth"
-  employer         : "Technology Innovation Institute (TII), United Arab Emirates"
+  bio              : "Senior Researcher"
+  location         : "United Arab Emirates"
+  employer         : "Technology Innovation Institute"
   uri              : # URL
-  email            : "debashisha.mishra[[AT]tii[[DOT]]ae" 
+  #email            : "debashish216[[AT]gmail[[DOT]]com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,9 +37,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6228-0699"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Debashisha-Mishra"
+  #scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57191419073"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

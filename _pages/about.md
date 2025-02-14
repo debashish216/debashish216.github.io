@@ -11,21 +11,22 @@ redirect_from:
 
 
 ## A short introduction
-Debashisha Mishra received his master degree from Dept. of Computer Science and Engineering, Indian Institute of Technology, Hyderabad, India. He is currently a doctoral student in Université de Lorraine, Nancy, France. His main research interests are in the area of unmanned aerial vehicle communication and networking with 5G/B5G cellular systems, autonomous systems and cloud-assisted approaches for next generation wireless networks.
-
+Dr. Debashisha Mishra is currently a Senior Researcher at Autonomous Robotics Research Center, at the Technology Innovation Institute (TII), a cutting-edge UAE-based scientific research center. He obtained his master’s degree M.Tech. from Indian Institute of Technology (IIT) Hyderabad and his Ph.D. in Computer Science at the Université de Lorraine (France) in 2018 and 2023 respectively. From 2021-2023, he was an associate researcher at the Technology Innovation Institute. His research interests include Networked Robotics, Advanced Air Mobility, and 5G and beyond cellular network.
 
 <b>Research Highlights:</b>
-* Development of a [aerial base station](https://ieeexplore.ieee.org/abstract/document/10570546)
-* 4G LTE, 5G and 6G Wireless Architectures
+* Networked Robotics, Autonomous Systems, Unmanned Aerial Vehicles (UAVs)
+* Advanced Air Mobility
+* Wired and Wireless Computer Networks (4G, 5G and beyond)
+* Cloud and Edge Computing
 
 ## Recent works
-Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah, LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms, Accepted in IEEE International Conference on Communications (ICC), Canada, 2025
+Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah, LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms, IEEE International Conference on Communications (ICC), Canada, 2025
 
-Prasanna Raut, Boris Galkin, Debashisha Mishra, Enrico Natalizio, Reliability and Latency Analysis of UAV-Assisted Base Station With Differentiated 5G Services, Accepted in IEEE Wireless Communications and Networking Conference (WCNC) Workshops, Italy, 2025
+Prasanna Raut, Boris Galkin, Debashisha Mishra, Enrico Natalizio, Reliability and Latency Analysis of UAV-Assisted Base Station With Differentiated 5G Services, IEEE Wireless Communications and Networking Conference (WCNC) Workshops, Italy, 2025
 
 Debashisha Mishra, Himank Gupta, Enrico Natalizio, Sky5G: Prototyping 5G Aerial Base Station (UAV-BS) for On-demand Connectivity from Sky, IEEE Wireless Communications and Networking Conference (WCNC), 2024
 
 Debashisha Mishra, Evgenii Vinogradov, Enrico Natalizio, 6G Wireless Architectures. The Road towards 6G: Opportunities, Challenges, and Applications: A Comprehensive View of the Enabling Technologies,  Springer Nature Switzerland, 2024.
 
-## For more information
-More info about Debashisha Mishra can be found in [CV](https://debashish216.github.io /cv/) or [downloaded CV](http://debashish216.github.io /files/CV_DMishra_Feb2025.pdf).
+## More publications
+More info about the publications can be found in [Google Scholar](https://scholar.google.com/citations?user=--81kT8AAAAJ&hl=en&authuser=1).
