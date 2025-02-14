@@ -18,8 +18,8 @@ Dr. Debashisha Mishra is currently a Senior Researcher at Autonomous Robotics Re
 * Rapid aerial disaster management using UAV access infrastructure and relays
 * Platform prototyping and autonomous positioning of UAV-assisted 4G/5G base station
 * Cloud radio access networks 
-<!-- *Networked Robotics, Autonomous Systems, Unmanned Aerial Vehicles (UAVs)
- Advanced Air Mobility
+<!-- * Networked Robotics, Autonomous Systems, Unmanned Aerial Vehicles (UAVs)
+* Advanced Air Mobility
 * Wired and Wireless Computer Networks (4G, 5G and beyond)
 * Cloud and Edge Computing -->
 
