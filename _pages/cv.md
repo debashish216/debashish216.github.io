@@ -17,28 +17,17 @@ Education
 
 Experiences
 ======
-* Spring 2024: Senior Researcher
+* April 2024: Senior Researcher
   * Technology Innovation Institute
 
-* Fall 2015: Doctoral Reseracher
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2021: Associate Researcher
+  * Technology Innovation Institute
 
-* Summer 2015: Member Technical Staff
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-* Summer 2015: Member Technical Staff
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2018: Associate Researcher
+  * Technology Innovation Institute
 
-* Summer 2015: Systems Engineer
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2021: Associate Researcher
+  * Technology Innovation Institute
 
 
 Skills
