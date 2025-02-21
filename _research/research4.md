@@ -1,25 +1,7 @@
 ---
-title: "Cloud-native radio access network (RAN) design"
-collection: research
-type: ""
-permalink: /research/research4
-venue: ""
-date: 
-location: ""
+title: "Research Portfolio item number 4"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
-This is a description of the research experience. You can use markdown like any other post.
-
-Heading 1
-======
-aaaaaa
-
-
-Heading 2
-======
-bbbbbb
-
-
-Heading 3
-======
-ccccc
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
