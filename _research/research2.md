@@ -2,7 +2,7 @@
 title: "Rapid aerial disaster management using UAV access infrastructure and relays"
 collection: research
 type: ""
-permalink: /research/research1
+permalink: /research/research2
 venue: ""
 date: 
 location: ""

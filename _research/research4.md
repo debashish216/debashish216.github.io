@@ -2,7 +2,7 @@
 title: "Cloud-native radio access network (RAN) design"
 collection: research
 type: ""
-permalink: /research/research1
+permalink: /research/research4
 venue: ""
 date: 
 location: ""

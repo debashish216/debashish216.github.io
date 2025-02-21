@@ -2,7 +2,7 @@
 title: "UAV-assisted 4G/5G base station and autonomous positioning"
 collection: research
 type: ""
-permalink: /research/research1
+permalink: /research/research3
 venue: ""
 date: 
 location: ""
