@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Software"
   #   url: /skills/
@@ -23,8 +23,8 @@ main:
   - title: "Professional Services"
     url: /services/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
