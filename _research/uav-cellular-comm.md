@@ -8,19 +8,15 @@ collection: research
 The integration of UAVs to 5G cellular network falls under four broad paradigms as shown in the following figure.
 
 <p align="center">
-  <img alt="UAV-Assisted Cellular Communication" src="/images/UAV-Cellular-1.png" width="42%">
-  <figcaption>UAV-Assisted Cellular Communication</figcaption>
+  <img alt="UAV-Assisted Cellular Communication" src="/images/UAV-Cellular-1.png" width="45%">
 &nbsp; &nbsp; 
-  <img alt="Cellular-Assisted UAV Communication" src="/images/UAV-Cellular-2.png" width="42%">
-  <figcaption>Cellular-Assisted UAV Communication</figcaption>
+  <img alt="Cellular-Assisted UAV Communication" src="/images/UAV-Cellular-2.png" width="45%">
 </p>
 
 <p align="center">
-  <img alt="UAV–UAV Communication" src="/images/UAV-Cellular-3.png" width="42%">
-  <figcaption>UAV–UAV Communication</figcaption>
+  <img alt="UAV–UAV Communication" src="/images/UAV-Cellular-3.png" width="45%">
 &nbsp; &nbsp;
-  <img alt="Hybrid Non-terrestrial Network" src="/images/UAV-Cellular-4.png" width="42%">
-  <figcaption>Hybrid Non-terrestrial Network</figcaption>
+  <img alt="Hybrid Non-terrestrial Network" src="/images/UAV-Cellular-4.png" width="45%">
 </p>
 
 ### UAV-Assisted Cellular Communication
