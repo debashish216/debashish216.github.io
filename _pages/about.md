@@ -19,24 +19,24 @@ Dr. Debashisha Mishra is currently a Senior Researcher in Autonomous Robotics Re
 ### Recent works
 
 * **LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms**\
-Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah\
+Ke Gao, Jun Du, Chunxiao Jiang, **Debashisha Mishra**, Chao Zhang, Mérouane Debbah\
 To appear in IEEE International Conference on Communications (ICC), Canada, 2025
 
 
 * **Reliability and Latency Analysis of UAV-Assisted Base Station With Differentiated 5G Services**\
-Prasanna Raut, Boris Galkin, Debashisha Mishra, Enrico Natalizio\
+Prasanna Raut, Boris Galkin, **Debashisha Mishra**, Enrico Natalizio\
 To appear in IEEE Wireless Communications and Networking Conference (WCNC) Workshops, Italy, 2025
 
 * **Network Slicing in Aerial Base Station (UAV-BS) towards Coexistence of Heterogeneous 5G Services**\
-Debashisha Mishra, Emiliano Traversi, Angelo Trotta, Prasanna Raut, Boris Galkin, Marco Di Felice, Enrico Natalizio\
+**Debashisha Mishra**, Emiliano Traversi, Angelo Trotta, Prasanna Raut, Boris Galkin, Marco Di Felice, Enrico Natalizio\
 To appear in Elsevier Computer Networks, 2025
 
 * **Sky5G: Prototyping 5G Aerial Base Station (UAV-BS) for On-demand Connectivity from Sky**\
-Debashisha Mishra, Himank Gupta, Enrico Natalizio\
+**Debashisha Mishra**, Himank Gupta, Enrico Natalizio\
 IEEE Wireless Communications and Networking Conference (WCNC), 2024
 
 * **On the Role of Non-terrestrial Networks in 6G**\
-Debashisha Mishra, Evgenii Vinogradov, Enrico Natalizio\
+**Debashisha Mishra**, Evgenii Vinogradov, Enrico Natalizio\
 Book Chapter in Springer Nature Switzerland, 2024
 
 

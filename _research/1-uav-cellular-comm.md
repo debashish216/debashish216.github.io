@@ -27,15 +27,15 @@ In this paradigm, UAVs are realized as flying base stations, relays or localizat
 ### Relevant Publications
 
 * **Sky5G: Prototyping 5G Aerial Base Station (UAV-BS) for On-demand Connectivity from Sky**\
-Debashisha Mishra, Himank Gupta, Enrico Natalizio\
+**Debashisha Mishra**, Himank Gupta, Enrico Natalizio\
 IEEE Wireless Communications and Networking Conference (WCNC), 2024
 
 * **Reliability and Latency Analysis of UAV-Assisted Base Station With Differentiated 5G Services**\
-Prasanna Raut, Boris Galkin, Debashisha Mishra, Enrico Natalizio\
+Prasanna Raut, Boris Galkin, **Debashisha Mishra**, Enrico Natalizio\
 To appear in IEEE Wireless Communications and Networking Conference (WCNC) Workshops, Italy, 2025
 
 * **Network Slicing in Aerial Base Station (UAV-BS) towards Coexistence of Heterogeneous 5G Services**\
-Debashisha Mishra, Emiliano Traversi, Angelo Trotta, Prasanna Raut, Boris Galkin, Marco Di Felice, Enrico Natalizio\
+**Debashisha Mishra**, Emiliano Traversi, Angelo Trotta, Prasanna Raut, Boris Galkin, Marco Di Felice, Enrico Natalizio\
 To appear in Elsevier Computer Networks, 2025
 
 ### Cellular-Assisted UAV Communication (Cellular-connected UAVs)
@@ -45,15 +45,15 @@ In this paradigm, the flying UAVs are realized as new aerial User Equipments (UE
 ### Relevant Publications
 
 * **A survey on cellular-connected UAVs: Design challenges, enabling 5G/B5G innovations, and experimental advancements**\
-Debashisha Mishra, Enrico Natalizio\
+**Debashisha Mishra**, Enrico Natalizio\
 Elsevier Computer Networks, 2020
 
 * **A high-end IoT devices framework to foster beyond-connectivity capabilities in 5G/B5G architecture**\
-Debashisha Mishra, Nicola Roberto Zema, Enrico Natalizio\
+**Debashisha Mishra**, Nicola Roberto Zema, Enrico Natalizio\
 IEEE Communications Magazine, 2021
 
 * **LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms**\
-Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah\
+Ke Gao, Jun Du, Chunxiao Jiang, **Debashisha Mishra**, Chao Zhang, Mérouane Debbah\
 To appear in IEEE International Conference on Communications (ICC), Canada, 2025
 
 ### UAV–UAV Communication
@@ -63,11 +63,11 @@ In this paradigm, a group of UAVs reliably communicate directly with each other 
 ### Relevant Publications
 
 * **Cooperative Cellular UAV-to-Everything (C-U2X) communication based on 5G sidelink for UAV swarms**\
-Debashisha Mishra, Angelo Trotta, Emiliano Traversi, Marco Di Felice, Enrico Natalizio\
+**Debashisha Mishra**, Angelo Trotta, Emiliano Traversi, Marco Di Felice, Enrico Natalizio\
 Elsevier Computer Communications, 2022
 
 * **Performance analysis of multi-hop communication based on 5G sidelink for cooperative UAV swarms**\
-Debashisha Mishra, Angelo Trotta, Marco Di Felice, Enrico Natalizio\
+**Debashisha Mishra**, Angelo Trotta, Marco Di Felice, Enrico Natalizio\
 IEEE International Mediterranean Conference on Communications and Networking (MeditCom), 2021
 
 
@@ -79,9 +79,9 @@ This paradigm brings forward the notion of an integrated space-aerial-ground com
 ### Relevant Publications
 
 * **On the Role of Non-terrestrial Networks in 6G**\
-Debashisha Mishra, Evgenii Vinogradov, Enrico Natalizio\
+**Debashisha Mishra**, Evgenii Vinogradov, Enrico Natalizio\
 Book Chapter in Springer Nature Switzerland, 2024
 
 * **Drone networking in the 6G Era: A Technology Overview**\
-Debashisha Mishra, Anna Maria Vegni, Valeria Loscrí, Enrico Natalizio\
+**Debashisha Mishra**, Anna Maria Vegni, Valeria Loscrí, Enrico Natalizio\
 IEEE Communications Standards Magazine, 2021

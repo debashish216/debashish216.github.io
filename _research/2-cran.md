@@ -15,17 +15,17 @@ We investigated the dynamic RRH-BBU mapping problem in C-RAN and studied the mul
 ### Relevant Publications
 
 * **Load-Aware Dynamic RRH Assignment in Cloud Radio Access Networks**\
-Debashisha Mishra, PC Amogh, Arun Ramamurthy, A Antony Franklin, Bheemarjuna Reddy Tamma\
+**Debashisha Mishra**, PC Amogh, Arun Ramamurthy, A Antony Franklin, Bheemarjuna Reddy Tamma\
 IEEE Wireless Communications and Networking Conference (WCNC), April 2016, Doha, Qatar
 
 * **KORA: A Framework for Dynamic Consolidation & Relocation of Control Units in Virtualized 5G RAN**\
-Debashisha Mishra, Himank Gupta, Bheemarjuna Reddy Tamma, A Antony Franklin\
+**Debashisha Mishra**, Himank Gupta, Bheemarjuna Reddy Tamma, A Antony Franklin\
 IEEE International Conference on Communications (ICC), Kansas City, MO, USA, 2018
 
 * **FLEXCRAN: Cloud Radio Access Network Prototype using OpenAirInterface**\
-S Sandeep Kumar, Raymond Knopp, Navid Nikaein, Debashisha Mishra, Bheemarjuna Reddy Tamma, A Antony Franklin, Kiran Kuchi, Rohit Gupta\
+S Sandeep Kumar, Raymond Knopp, Navid Nikaein, **Debashisha Mishra**, Bheemarjuna Reddy Tamma, A Antony Franklin, Kiran Kuchi, Rohit Gupta\
 IEEE International Conference on COMmunication Systems & NETworkS (COMSNETS), Demos & Exhibits, January 2017, Bangalore, India
 
 * **A Matching-theoretic Framework for Consolidation of Flexible Cloud-native Central Units in 5G-RAN**\
-Debashisha Mishra, Himank Gupta, Mehul Sharma, Bheemarjuna Reddy Tamma\
+**Debashisha Mishra**, Himank Gupta, Mehul Sharma, Bheemarjuna Reddy Tamma\
 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), December 2019, Goa, India
