@@ -17,10 +17,18 @@ Unmanned Aerial Vehicle (UAV) as a cellular Base Station (BS), referred to as UA
 </p>
 
 ## Relevant Publications
-Debashisha Mishra, Himank Gupta, Enrico Natalizio, Sky5G: Prototyping 5G Aerial Base Station (UAV-BS) for On-demand Connectivity from Sky, IEEE Wireless Communications and Networking Conference (WCNC), 2024
+* **Sky5G: Prototyping 5G Aerial Base Station (UAV-BS) for On-demand Connectivity from Sky**\
+Debashisha Mishra, Himank Gupta, Enrico Natalizio\
+IEEE Wireless Communications and Networking Conference (WCNC), 2024
 
-Prasanna Raut, Boris Galkin, Debashisha Mishra, Enrico Natalizio, Reliability and Latency Analysis of UAV-Assisted Base Station With Differentiated 5G Services, To appear in IEEE Wireless Communications and Networking Conference (WCNC) Workshops, Italy, 2025
+* **Reliability and Latency Analysis of UAV-Assisted Base Station With Differentiated 5G Services**\
+Prasanna Raut, Boris Galkin, Debashisha Mishra, Enrico Natalizio\
+To appear in IEEE Wireless Communications and Networking Conference (WCNC) Workshops, Italy, 2025
 
-Debashisha Mishra, Emiliano Traversi, Angelo Trotta, Prasanna Raut, Boris Galkin, Marco Di Felice, Enrico Natalizio, Network Slicing in Aerial Base Station (UAV-BS) towards Coexistence of Heterogeneous 5G Services, To appear in Elsevier Computer Networks, 2025
+* **Network Slicing in Aerial Base Station (UAV-BS) towards Coexistence of Heterogeneous 5G Services**\
+Debashisha Mishra, Emiliano Traversi, Angelo Trotta, Prasanna Raut, Boris Galkin, Marco Di Felice, Enrico Natalizio\
+To appear in Elsevier Computer Networks, 2025
 
-Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah, LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms, To appear in IEEE International Conference on Communications (ICC), Canada, 2025
+* **LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms**\
+Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah\
+To appear in IEEE International Conference on Communications (ICC), Canada, 2025
