@@ -8,7 +8,7 @@ collection: research
 This topic focuses on design and development of novel UAV-aided communication solutions to establish a rapid aerial access infrastructure support for disaster management.
 
 
-### Relevant Publications
+<!-- ### Relevant Publications
 
 * **Publication 1**\
 Authors \
@@ -16,4 +16,4 @@ Venue, Year.
 
 * **Publication 2**\
 Authors \
-Venue, Year.
+Venue, Year. -->

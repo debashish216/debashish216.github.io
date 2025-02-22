@@ -9,7 +9,7 @@ Advanced air mobility (AAM) is currently an active area of research and developm
 
 In this study, we aim to deep dive into the key factors that influence design of air corridors connecting the vertiport along with the criterias to define a safe separation distance among eVTOL aircraft to avoid collisions.
 
-### Relevant Publications
+<!-- ### Relevant Publications
 
 * **Publication 1**\
 Authors \
@@ -17,4 +17,4 @@ Venue, Year.
 
 * **Publication 2**\
 Authors \
-Venue, Year.
+Venue, Year. -->
