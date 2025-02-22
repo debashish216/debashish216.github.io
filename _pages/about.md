@@ -11,10 +11,10 @@ redirect_from:
 
 
 ## A short introduction
-Dr. Debashisha Mishra is currently a Senior Researcher in Autonomous Robotics Research Center, at the [Technology Innovation Institute (TII)](https://www.tii.ae/), a cutting-edge UAE-based scientific research center. He obtained his master’s degree M.Tech. from Indian Institute of Technology (IIT) Hyderabad and his Ph.D. in Computer Science at the Université de Lorraine (France) in 2018 and 2023 respectively. From 2021-2023, he was an associate researcher at the Technology Innovation Institute. Before his doctoral studies, he gained valuable professional experience working with Mentor Graphics, a Siemens EDA company, and Tata Cnsultancy Services, India. His research interests include Networked Robotics, Advanced Air Mobility, and 5G and beyond cellular network. 
+Dr. Debashisha Mishra is currently a Senior Researcher in Autonomous Robotics Research Center, at the [Technology Innovation Institute (TII)](https://www.tii.ae/), a cutting-edge UAE-based scientific research center. He obtained his master’s degree M.Tech. from Indian Institute of Technology (IIT) Hyderabad and his Ph.D. in Computer Science at the Université de Lorraine (France) in 2018 and 2023 respectively. From 2021-2023, he was an associate researcher at the Technology Innovation Institute. Before his doctoral studies, he gained valuable professional experience working with Mentor Graphics, a Siemens EDA company, and Tata Consultancy Services, India. His research interests include Networked Robotics, Advanced Air Mobility, and 5G and beyond cellular network. 
 
 <b>Research Highlights:</b>
-* Advanced Air Mobility (flying taxi) corridor design and separation definition
+* Advanced Air Mobility (flying taxi) corridor design and safe separation definition
 * Rapid aerial disaster management using UAV access infrastructure and relays
 * Integration of Unmanned Aerial Vehicle (UAV) with 5G mobile network 
 * Cloud-native and virtualized radio access network (RAN) 
