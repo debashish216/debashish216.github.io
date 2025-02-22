@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Université de Lorraine, France
-* M.Tech. in Computer Science and Engineering, Indian Institute of Technology (IIT), Hyderabad, India, 2018
+* M.Tech. in Computer Science and Engineering, Indian Institute of Technology (IIT), Hyderabad, India
 <!-- * B.Tech. in Information Technology, VSS University of Technology, Burla, Odisha, 2010 -->
 
 Industry Experiences
