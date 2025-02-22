@@ -16,8 +16,8 @@ Dr. Debashisha Mishra is currently a Senior Researcher in Autonomous Robotics Re
 <b>Research Highlights:</b>
 * Advanced Air Mobility (flying taxi) corridor design and separation definition
 * Rapid aerial disaster management using UAV access infrastructure and relays
-* UAV-assisted 4G/5G base station and autonomous positioning 
-* Cloud-native radio access network (RAN) design 
+* Integration of Unmanned Aerial Vehicle (UAV) with 5G mobile network 
+* Cloud-native and virtualized radio access network (RAN) 
 
 ## Recent works
 Ke Gao, Jun Du, Chunxiao Jiang, Debashisha Mishra, Chao Zhang, Mérouane Debbah, LE-MHAPPO-Enhanced DNN Task Partitioning in Energy-harvesting Heterogeneous UAV Swarms, To appear in IEEE International Conference on Communications (ICC), Canada, 2025
