@@ -12,6 +12,7 @@ author_profile: true
 TPC Member
 =============
 * TPC Member of "NetRobiCS" (ex WiSARN) Workshop, INFOCOM 
+* TPC Member of “IEEE WCNC” Conference
 * TPC Member of “DCOSS-IoT” Conference
 * Publicity chair of DCOSS-IoT Conference 
 
